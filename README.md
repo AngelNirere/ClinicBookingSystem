@@ -43,9 +43,9 @@ This project was developed as a **Final Exam Project for Best Programming Practi
 
 ## ⚙️ Design Patterns Used
 
-### 🏭 Factory Design Pattern
+### 🏭 REPOSITORY DESIGN PATTERN
 
-The system uses the **Factory Design Pattern** to manage consultation fee calculation logic.
+Imagine you're running your clinic appointment system. You need to store and retrieve data about patients, doctors, and appointments. The Repository Pattern is like hiring a professional data manager for your clinic.
 
 #### 🔹 How It Works
 
