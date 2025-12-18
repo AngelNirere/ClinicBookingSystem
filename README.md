@@ -47,15 +47,18 @@ This project was developed as a **Final Exam Project for Best Programming Practi
 
 Imagine you're running your clinic appointment system. You need to store and retrieve data about patients, doctors, and appointments. The Repository Pattern is like hiring a professional data manager for your clinic.
 
-#### 🔹 How It Works
+How It Works in Simple Steps:
+Define What You Want to Do (Interface)
 
-* `ConsultationFeeFactory` selects the appropriate fee strategy based on consultation type.
-* Each service type has its own pricing implementation.
+"I need to: Save patients, Find patients, Update patients, List patients"
 
-#### 🔹 Implementations
+This is like telling the receptionist: "These are the services I need"
 
-* `GeneralConsultationFee` – standard consultation pricing
-* `SpecialistConsultationFee` – higher specialist consultation pricing
+Hire Someone to Do It (Implementation)
+
+"Here's a receptionist who knows how to organize files"
+
+Or: "Here's a computer system that stores data digitally"
 
 #### 🔹 Benefits
 
