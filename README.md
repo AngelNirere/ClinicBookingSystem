@@ -1,8 +1,8 @@
-# 🏥 Smart Clinic Booking Management System
+# 🏥 Smart Booking Appointment for clinics 
 
 ## 📌 Project Overview
 
-The **Smart Clinic Booking Management System** is a Spring Boot–based application developed to automate and streamline appointment booking in a healthcare clinic. The system reduces manual scheduling errors, prevents double booking, and automates consultation fee calculation using clean architecture and design patterns.
+The **Smart  Booking Appointment for ckinics** is a Spring Boot–based application developed to automate and streamline appointment booking in a healthcare clinic. The system reduces manual scheduling errors, prevents double booking, and automates consultation fee calculation using clean architecture and design patterns.
 
 This project was developed as a **Final Exam Project for Best Programming Practice and Design Patterns**.
 
