@@ -10,8 +10,8 @@ This project was developed as a **Final Exam Project for Best Programming Practi
 
 ## 👨‍🎓 Student Information
 
-* **Student Name:** Ishimwe Emmanuel
-* **Student ID:** 26424
+* **Student Name:** Nirere Angelique
+* **Student ID:** 26564
 * **Course:** Best Programming Practice & Design Patterns
 * **Date:** December 2025
 
