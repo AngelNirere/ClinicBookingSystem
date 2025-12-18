@@ -1,4 +1,4 @@
-# Clinic Booking System
+
 
 A Java-based clinic management system with appointment booking functionality.
 
